@@ -4,3 +4,6 @@ this is first repository i have created on github.
 Zia utmani
 # Ph no:
 0306830851
+# student
+BS Computer Science
+
